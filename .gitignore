@@ -1,0 +1,13 @@
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# scan results (once i add saving)
+results/
+*.out
+
+# editors
+.vscode/
+.idea/
